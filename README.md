@@ -1,6 +1,6 @@
-#Customer Churn Prediction for Subscription
+# Customer Churn Prediction for Subscription
 
-##Author : Raghav Raipuria
+## Author : Raghav Raipuria
 
 ##Introduction to Challenge
 In this Case Study we will be working for a fintech company that wants to provide its customers with a paid mobile app subscription that will allow them to track all of their finances in one place. To attract customers, the company releases a free version of their app with some of the main features unlocked.
@@ -13,9 +13,9 @@ Product: The paid memberships often provide enhanced versions of the free produc
 
 Goal: The objective of this model is to predict which users will not subscribe to the paid membership, so that greater marketing efforts can go into trying to "convert" them to paid users.
 
-##Dataset
+## Dataset
 By working for the company, we have access to each customer's app behavior data. This data allows us to see the date and time of app installation, as well as the features the users engaged with within the app. App behavior is characterized as the list of app screens the user looked at, and whether the user played the financial mini-games available.
 
 The app usage data is only from the user's first day in the app. This limitation exists because users can enjoy a 24-hour free trial of the premium features, and the company wants to target them with new offers shortly after the trial is over.
 
-##Files
+## Files
