@@ -18,4 +18,11 @@ By working for the company, we have access to each customer's app behavior data.
 
 The app usage data is only from the user's first day in the app. This limitation exists because users can enjoy a 24-hour free trial of the premium features, and the company wants to target them with new offers shortly after the trial is over.
 
+Above mentioned Dataset is stored in file - "appdata10.csv"
+
+Luckily Company also provided list of top screen used by user to reduce number of feature in file - "top_screens.csv"
+
 ## Files
+"fintech_eda.py" and "fintech_eda.ipynb" are python and notebook files respectively for performing Data Cleaning with Statistical Analysis that stores the data in "new_appdata10.csv" after data cleaning and adding new feature related to top_screen and first_open and enrolled_time.
+
+"fintech_model.py" and "fintech_model.ipynb" are python and notebook files respectively for creating Logistic Regression & XGboost Model, comparision on based of Classification Metrics such as confusion_matrix, accuracy, precision, recall, f1_score.
