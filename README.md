@@ -25,6 +25,12 @@ Above mentioned Dataset is stored in file - "**appdata10.csv**"
 Luckily Company also provided list of top screen used by user to reduce number of feature in file - "**top_screens.csv**"
 
 ## Files
-* "**fintech_eda.py**" and "**fintech_eda.ipynb**" are python and notebook files respectively for performing Data Cleaning with Statistical Analysis that stores the data in "**new_appdata10.csv**" after data cleaning and adding new feature related to top_screen and first_open and enrolled_time.
+"**fintech.py**" and "**fintech.ipynb**" are python and notebook files respectively.
 
-* "**fintech_model.py**" and "**fintech_model.ipynb**" are python and notebook files respectively for creating Logistic Regression & XGboost Model, comparision on based of Classification Metrics such as confusion_matrix, accuracy, precision, recall, f1_score.
+
+## Task Performed
+* Statistical Analysis of numerical variable with dependent variable and correlation matrix.
+* Data Cleaning and Analysis based on difference between first_open and enrolled_time.
+* Feature Extraction from "screen_list" field to several new field listed in "**top_screens**".
+* Training Logistic Regression with hyperparameter tuning.
+* Training XGBoost Model and performance comparision based on Classification Metrics such as confusion_matrix, accuracy, precision, recall, f1_score.
