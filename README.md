@@ -2,6 +2,8 @@
 
 ## Author : Raghav Raipuria
 
+### Kaggle Notebook : https://www.kaggle.com/raghavraipuria/customer-churn-prediction
+
 ## Introduction to Challenge
 In this Case Study we will be working for a fintech company that wants to provide its customers with a paid mobile app subscription that will allow them to track all of their finances in one place. To attract customers, the company releases a free version of their app with some of the main features unlocked.
 
